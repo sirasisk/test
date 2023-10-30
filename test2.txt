@@ -20,5 +20,3 @@ lkj
 master
 
 restore
-
-revert
